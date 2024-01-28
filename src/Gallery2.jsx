@@ -20,7 +20,6 @@ const Gallery2 = ({ list, handleButtonClick, categoryList }) => {
                         <div className="card-body">
                             <h5 className="card-title text-capitalize">{card?.title}</h5>
                             <p className="card-text">{card?.description}</p>
-                            <a href="/" className="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
                 ))
