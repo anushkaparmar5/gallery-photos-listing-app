@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gallery-photos-listing-app/static/css/main.7eebc124.css",
+    "main.js": "/gallery-photos-listing-app/static/js/main.157b1f8e.js",
+    "index.html": "/gallery-photos-listing-app/index.html",
+    "main.7eebc124.css.map": "/gallery-photos-listing-app/static/css/main.7eebc124.css.map",
+    "main.157b1f8e.js.map": "/gallery-photos-listing-app/static/js/main.157b1f8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eebc124.css",
+    "static/js/main.157b1f8e.js"
+  ]
+}
